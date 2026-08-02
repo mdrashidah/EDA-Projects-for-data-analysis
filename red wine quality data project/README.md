@@ -1,3 +1,4 @@
 WINE QUALITY PREDICTION 🍷
 Exploratory data analysis work
-310-3107522_red-wine-full-hd-wallpaper-high-resolution-wine.jpg
+>>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+https://boisson.co/blogs/news/what-is-alcohol-free-wine?srsltid=AfmBOooWbjZjS6P-ZAa3bHLqTx-XkrkMNR-ha4uH2QWliNl0wuSAaqPJ
