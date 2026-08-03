@@ -52,4 +52,18 @@ To view and execute this analysis on your local machine, kindly do the needful:
 3. Keep the `WineQT.csv` file in the same directory as the Jupyter Notebook [cite: 1].
 4. Run all the cells in the notebook sequentially to reproduce the visualisations and analysis.
 
+### 🌐 Feel Free to Connect With Me:
+
+<div align="center">
+  <a href="https://github.com/mdrashidah" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://linkedin.com/in/mdrashidah" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:rashidnrlbhilai@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
+
 -------
