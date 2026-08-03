@@ -1,4 +1,4 @@
-> # EDA Projects for Data Analysis 📊
+> #**EDA Projects for Data Analysis** 📊
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Welcome to my **Exploratory Data Analysis (EDA) Portfolio Repository**. 
