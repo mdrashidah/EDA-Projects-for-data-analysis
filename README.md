@@ -61,4 +61,7 @@ If you have any questions, feedback, or collaboration ideas regarding these proj
 - **GitHub:** [mdrashidah](https://github.com/mdrashidah)
 - 
 - **Linkedin:** [mdrashidah](https://linkedin.com/mdrashidah)
+
+- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mdrashidah" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/mdrashidah?trk=profile-badge">MD Rashid Ali Haider</a></div>
+              
 ---
