@@ -54,14 +54,17 @@ This portfolio is a work-in-progress. I will be adding the following datasets an
 
 ---
 
-## 🤝 Connect with Me
+### 🌐 Feel Free to Connect With Me:
 
-If you have any questions, feedback, or collaboration ideas regarding these projects, I would be more than happy to connect. 
-
-- **GitHub:** [mdrashidah](https://github.com/mdrashidah)
-- 
-- **Linkedin:**
-
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mdrashidah" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/mdrashidah?trk=profile-badge">MD Rashid Ali Haider</a></div>
-              
+<div align="center">
+  <a href="https://github.com/mdrashidah" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://linkedin.com/in/mdrashidah" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:rashidnrlbhilai@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
 ---
