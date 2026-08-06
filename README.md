@@ -1,13 +1,11 @@
  # **Exploratory Data Analysis (EDA) Projects for Data Analysis** 📊
-
-A comprehensive collection of data analysis 
  
 <img width="1030" height="310" alt="image" src="https://github.com/user-attachments/assets/831b7d68-1bf1-42a4-8632-a12f1ffcf87c" />
 
 **Exploratory Data Analysis (EDA) Portfolio Project Repository**. 
 
 ---
-projects showcasing advanced exploratory techniques, statistical modeling, and data visualization. This repository demonstrates practical applications of EDA for uncovering hidden patterns, identifying anomalies, testing hypotheses, and deriving actionable insights to support business strategy.
+A comprehensive collection of data analysis projects showcasing advanced exploratory techniques, statistical modeling, and data visualization. This repository demonstrates practical applications of EDA for uncovering hidden patterns, identifying anomalies, testing hypotheses, and deriving actionable insights to support business strategy.
 
 ## Key Features
 
@@ -19,7 +17,7 @@ projects showcasing advanced exploratory techniques, statistical modeling, and d
 
 ## Key Insights & Outcomes
 
-* **Customer Segmentation:** Identified distinct behavioral cohorts leading to a targeted 15% increase in marketing efficiency.
+* **Customer & product Segmentation:** Identified distinct behavioral cohorts leading to increase in marketing efficiency.
 * **Anomaly Detection:** Flagged critical outliers and data entry errors that skewed historical baseline performance metrics.
 * **Predictive Indicators:** Uncovered strong linear and non-linear correlations that served as primary features for downstream Machine Learning models.
 
@@ -28,7 +26,6 @@ projects showcasing advanced exploratory techniques, statistical modeling, and d
 * **Programming:** Python
 * **Libraries:** Pandas, NumPy, Scipy, Seaborn, Matplotlib, Plotly
 * **Environments:** Jupyter Notebooks, V.S. code
-* 
 ---
 
 ## 🧭 How to Navigate This Repository
@@ -52,4 +49,3 @@ projects showcasing advanced exploratory techniques, statistical modeling, and d
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
----
